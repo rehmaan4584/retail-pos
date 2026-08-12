@@ -10,7 +10,7 @@ Designed as a portfolio project to demonstrate clean frontend architecture, clie
 
 ## Live site
 
-> Add your Vercel URL here after deploy: `https://your-app.vercel.app`
+> Add your Vercel URL here after deploy: `https://rehman-retail-pos.vercel.app/`
 
 ## Features
 
